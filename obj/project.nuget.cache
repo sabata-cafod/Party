@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Atj5kXM7XwJthYicsul5es292ZP86tpby14ROuQ7BPKiuJoyeoEZgqeeD+sjL5EwzBBsqCAMAch8ZEwr7sEngA==",
+  "dgSpecHash": "5vRL8PgA6gClVspVdLDw2SyBzuUQ+RbVDeHPM8G8pUQFITjCaU2uW5zlFSPzYHR+JzdjdngqJJKv2BrIozv5Xw==",
   "success": true,
   "projectFilePath": "C:\\Users\\sabata\\Rediscache\\Rediscache.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,8 @@
     "C:\\Users\\sabata\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
     "C:\\Users\\sabata\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
     "C:\\Users\\sabata\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\sabata\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+    "C:\\Users\\sabata\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\sabata\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
 }
